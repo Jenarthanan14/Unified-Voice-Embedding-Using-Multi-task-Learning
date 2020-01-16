@@ -72,7 +72,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Rajenthiran Jenarthanan** 
+* **Rajenthiran Jenarthanan**
+* **Lakshikka Sithamparanathan**
+* **Saranya Uthayakumar**
+
 See also the list of [contributors](https://github.com/Jenarthanan14/Voice-Feature-Extraction/contributors) who participated in this project.
 
 ## License
