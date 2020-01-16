@@ -1,6 +1,6 @@
 # Voice-Feature-Extraction (Template) 
 
-One Paragraph of project description goes here
+Extracting voice features separetely from embedding 
 
 ## Getting Started
 
