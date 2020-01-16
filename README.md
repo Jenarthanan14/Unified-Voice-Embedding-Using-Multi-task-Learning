@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them.
 
 ```
 Give examples
@@ -18,7 +18,7 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+what are the steps.List them.
 
 ```
 Give the example
