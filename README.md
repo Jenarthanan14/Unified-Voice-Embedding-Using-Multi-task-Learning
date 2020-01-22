@@ -2,6 +2,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Extracting voice features separetely from embedding 
 
@@ -97,4 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [stars-url]: https://github.com/Jenarthanan14/Voice-Feature-Extraction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jenarthanan14/Voice-Feature-Extraction.svg?style=flat-square
 [issues-url]: https://github.com/Jenarthanan14/Voice-Feature-Extraction/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jenarthanan-rajenthiram/
 
