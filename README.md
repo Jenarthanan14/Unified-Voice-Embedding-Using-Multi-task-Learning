@@ -1,6 +1,7 @@
 # Voice-Feature-Extraction (Template)
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -95,6 +96,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jenarthanan14/Voice-Feature-Extraction.svg?style=flat-square
 [contributors-url]: https://github.com/Jenarthanan14/Voice-Feature-Extraction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Jenarthanan14/Voice-Feature-Extraction.svg?style=flat-square
+[forks-url]: https://github.com/Jenarthanan14/Voice-Feature-Extraction/network/members
 [stars-shield]: https://img.shields.io/github/stars/Jenarthanan14/Voice-Feature-Extraction.svg?style=flat-square
 [stars-url]: https://github.com/Jenarthanan14/Voice-Feature-Extraction/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jenarthanan14/Voice-Feature-Extraction.svg?style=flat-square
