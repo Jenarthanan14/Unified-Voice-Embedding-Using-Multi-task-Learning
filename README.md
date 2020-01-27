@@ -5,6 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Build Status][travis-image]][travis-url]
 
 Extracting voice features separetely from embedding 
 
@@ -106,4 +107,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [license-url]: https://github.com/Jenarthanan14/Software-Engneering-Project/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jenarthanan-rajenthiram/
-
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
