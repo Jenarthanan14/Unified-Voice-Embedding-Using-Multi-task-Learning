@@ -1,4 +1,4 @@
-## Deep Speaker: An End-to-End Neural Speaker Embedding System.
+## Hive-MTL: Unified Voice Embedding through Multi-task Learning.
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Forks][forks-shield]][forks-url]
