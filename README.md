@@ -32,7 +32,9 @@ The code for training is available in this repository.
 sudo chmod -R 777 hive-mtl/ # Give write permision to hive-mtl
 pip uninstall -y tensorflow && pip install tensorflow-gpu
 ./hive-mtl download_librispeech # Download Librispeech dataset
-
+./hive-mtl build_mfcc
+./hive-mtl build_model_inputs
+./hive-mtl train_mtl
 ```
 
 
